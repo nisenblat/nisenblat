@@ -22,4 +22,4 @@ Quantitative analysis, A/B Testing, Hypothesis testing, EDA, Econometrics, Predi
   <img src="https://www.svgrepo.com/show/353804/google-analytics.svg" width="50" height="50">
 </div>
 
-### Portfolio
+### [Check my portfolio](https://github.com/nisenblat/nisenblat)
