@@ -16,7 +16,7 @@ Statistical hypothesis testing serves as a fundamental tool in drawing meaningfu
 
 Steps to choose correctly criteria:
 
-1. Which type of metric do we have?
+1. Type of metric?
     1. discrete
     2. countable
 2. 
